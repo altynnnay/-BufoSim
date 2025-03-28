@@ -1,7 +1,7 @@
 # BufoSim 🐸
 
 **Author:** Altynay Aralbek
-PhD Student in Biology · Akdeniz University · Amphibian Ecologist & Data Science Enthusiast
+PhD Student in Biology · Akdeniz University · Biologist & Data Science Enthusiast
 
 ---
 

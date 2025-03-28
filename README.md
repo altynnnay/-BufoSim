@@ -2,7 +2,9 @@
 <p align="center">
   <img src="bufo_banner.png" alt="BufoSim Banner" width="100%">
 </p>
+
 <br>
+
 **Author:** Altynay Aralbek
 PhD Student in Biology · Akdeniz University · Biologist & Data Science Enthusiast
 
